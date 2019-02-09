@@ -1,4 +1,4 @@
-### This repository has the latest version of my curriculum vitae.
+### The repository has my resume until 02/2019
 ---
 
 # How it was made
