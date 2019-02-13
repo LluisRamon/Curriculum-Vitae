@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-02-09 23:14+0100\n"
-"PO-Revision-Date: 2019-02-11 23:21+0100\n"
+"PO-Revision-Date: 2019-02-13 22:20+0100\n"
 "Language: ca_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -305,7 +305,7 @@ msgid ""
 msgstr ""
 "\\cventry{Oct. 2018}{eDreams ODIGEO Datathon - Second Best Accuracy Model}{Predir el tipus d’allotjament (hotel, "
 "alberg, pensió, apartament) utilitzant diverses imatges i etiquetes de Google Cloud Vision. Equip amb David "
-"Massip and Jordi Puigdellivol}{}{}{}{}"
+"Massip i Jordi Puigdellivol}{}{}{}{}"
 
 #. type: document
 #: Lluis_Ramon_cv_en.tex:132
@@ -316,7 +316,7 @@ msgid ""
 msgstr ""
 "\\cventry{Oct. 2016}{Social Point Monster Legends Datathon - Best Business Insights Track}{Millor Business "
 "Insights Track i tercer millor sistema de recomanacions sobre dades d’un videojoc. Equip amb Jordi Zamora, "
-"Carlos Bort and Jordi Puigdellivol}{}{}{}{}"
+"Carlos Bort i Jordi Puigdellivol}{}{}{}{}"
 
 #. type: document
 #: Lluis_Ramon_cv_en.tex:134
@@ -327,7 +327,7 @@ msgid ""
 msgstr ""
 "\\cventry{May 2016}{\\link[Accenture Datathon 2016 - Best Accuracy Track Model]{https://www.accenture.com/es-es/"
 "careers/analytics-datathon}}{Predicció d’accidents de trànsit a Barcelona a partir d’informes d’accidents "
-"policials locals. Equip amb Carlos Bort, Jordi Puigdellivol and Jordi Zamora}{}{}{}{}"
+"policials locals. Equip amb Carlos Bort, Jordi Puigdellivol i Jordi Zamora}{}{}{}{}"
 
 #. type: document
 #: Lluis_Ramon_cv_en.tex:136
@@ -337,5 +337,5 @@ msgid ""
 "Zamora}{}{}{}{}"
 msgstr ""
 "\\cventry{Nov. 2015}{\\link[Social Point Dragon City Datathon - Best Accuracy Track Model]{http://bcnanalytics."
-"com/hackathon/}}{BMillor model predictiu per detectar jugadors que es donaran de baixa a un videojoc. Equip amb "
-"Carlos Bort, Jordi Puigdellivol and Jordi Zamora}{}{}{}{}"
+"com/hackathon/}}{Millor model predictiu per detectar jugadors que es donaran de baixa a un videojoc. Equip amb "
+"Carlos Bort, Jordi Puigdellivol i Jordi Zamora}{}{}{}{}"
