@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-03-06 18:53+0100\n"
-"PO-Revision-Date: 2019-03-06 18:54+0100\n"
+"POT-Creation-Date: 2019-05-25 10:38+0000\n"
+"PO-Revision-Date: 2019-05-25 12:44+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. type: Plain text
 #: Lluis_Ramon_cv_en.tex:3
@@ -363,6 +363,20 @@ msgstr "Premios"
 #. type: document
 #: Lluis_Ramon_cv_en.tex:130
 msgid ""
+"\\cventry{May 2019}{Accenture Datathon 2019 - Second Best Accuracy + "
+"Solution Track}{Predict melanoma patients survival rate (risk of mortality) "
+"using patient profile, genetic, tumor biopsy and blood test variables. Team "
+"with: Laia Domino, David Massip, and Jordi Puigdellivol}{}{}{}{}"
+msgstr ""
+"\\cventry{Mayo 2019}{Accenture Datathon 2019 - Second Best Accuracy + "
+"Solution Track}{Predicir la supervivencia de pacientes de melanoma "
+"utilizando datos del perfil del paciente, genéticas, biopsia del tumor y los "
+"resultados de test de sangre. Equipo con Laia Domino, David Masip, and Jordi "
+"Puigdellivol}{}{}{}{}"
+
+#. type: document
+#: Lluis_Ramon_cv_en.tex:132
+msgid ""
 "\\cventry{Oct. 2018}{eDreams ODIGEO Datathon - Second Best Accuracy Model}"
 "{Predict the type of accommodation (Hotel, Hostel, Guesthouse, Apartment, "
 "etc) using several images and Google Cloud Vision tags. Team with: David "
@@ -371,10 +385,10 @@ msgstr ""
 "\\cventry{Oct. 2018}{eDreams ODIGEO Datathon - Second Best Accuracy Model}"
 "{Predecir el tipo de alojamiento (hotel, albergue, pensión, apartamento) "
 "utilizando varias imágenes y etiquetas de Google Cloud Vision. Equipo con "
-"David Massip y Jordi Puigdellivol}{}{}{}{}"
+"David Masip y Jordi Puigdellivol}{}{}{}{}"
 
 #. type: document
-#: Lluis_Ramon_cv_en.tex:132
+#: Lluis_Ramon_cv_en.tex:134
 msgid ""
 "\\cventry{Oct. 2016}{Social Point Monster Legends Datathon - Best Business "
 "Insights Track}{Best Business Insights Track and 3rd best recommender system "
@@ -387,7 +401,7 @@ msgstr ""
 "Carlos Bort y Jordi Puigdellivol}{}{}{}{}"
 
 #. type: document
-#: Lluis_Ramon_cv_en.tex:134
+#: Lluis_Ramon_cv_en.tex:136
 msgid ""
 "\\cventry{May 2016}{\\link[Accenture Datathon 2016 - Best Accuracy Track "
 "Model]{https://www.accenture.com/es-es/careers/analytics-datathon}}"
@@ -401,7 +415,7 @@ msgstr ""
 "y Jordi Zamora}{}{}{}{}"
 
 #. type: document
-#: Lluis_Ramon_cv_en.tex:136
+#: Lluis_Ramon_cv_en.tex:138
 msgid ""
 "\\cventry{Nov. 2015}{\\link[Social Point Dragon City Datathon - Best "
 "Accuracy Track Model]{http://bcnanalytics.com/hackathon/}}{Best predictive "
